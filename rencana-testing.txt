@@ -4,4 +4,5 @@ Rencana Testing
   - Waktu dalam 1 hari
 2. Testing Manual
 3. Create Automation
-  - Katalon
+  - Katalon/Selenium
+4. UAT

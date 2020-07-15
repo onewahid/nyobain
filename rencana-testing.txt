@@ -2,6 +2,7 @@ Rencana Testing
 1. Create Screnario
   - Base on BRD
   - Waktu dalam 1 hari
-2. Create Automation
-  - Selenium
-3. UAT
+2. Testing Manual
+3. Create Automation
+  - Katalon/Selenium
+4. UAT

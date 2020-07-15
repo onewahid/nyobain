@@ -1,0 +1,5 @@
+Rencana Testing
+1. Create Screnario
+  - Base on BRD
+2. Testing Manual
+3. Create Automation
